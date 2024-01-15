@@ -7,6 +7,8 @@ function App() {
     <>
       <Button variant="contained">Hello world</Button>
       <AccessAlarmIcon />
+      <br></br>
+      <h1>Hello World</h1>
     </>
   )
 }
